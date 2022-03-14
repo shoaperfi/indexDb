@@ -1,0 +1,36 @@
+.accountScreen {
+    border: 1px solid #dbdbdb;
+    border-radius: 4px;
+    width: 100%;
+    margin: 0;
+  }
+  .formArea {
+    margin: 10px 10px 10px 130px;
+  }
+  .inputStyle {
+    border: 1px solid #dbdbdb;
+    outline: none;
+  }
+  .textareaStyle {
+    border: 1px solid #dbdbdb;
+    outline: none;
+    height: 100px;
+  }
+  .inputRow {
+    margin: 20px 0 0 0;
+  }
+  .btn-success {
+    margin-left: 60px;
+  }
+  .words {
+    cursor: pointer;
+    padding-bottom: 5px;
+    border: 1px;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+  }
+  .words:hover {
+    background-color: grey;
+  }
+  
